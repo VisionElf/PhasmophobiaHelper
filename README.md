@@ -4,7 +4,7 @@
 
 ## How to install
 
-- [Download the latest version in the release tab](releases/tag/v1.0).
+- [Download the latest version in the release tab](https://github.com/VisionElf/PhasmophobiaHelper/releases/tag/v1.0).
 - Unzip it wherever you want
 - Double click on PhasmophobiaHelper.exe
 
